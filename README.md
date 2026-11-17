@@ -1,5 +1,7 @@
 # nhl-xg-model
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/noahowsh/nhl-xg-model/blob/main/xg_model.ipynb)
+
 A small, readable NHL expected-goals (xG) model you can run in a minute: pull a season of shot locations, build distance and angle features, fit a logistic regression and check its calibration.
 
 ```bash
